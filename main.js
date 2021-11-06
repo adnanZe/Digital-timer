@@ -8,22 +8,22 @@ const mainContainer = document.querySelector('main');
 const createUList = document.createElement('ul');
 mainContainer.append(createUList);
 
-// Adaugati un button plus functionalitate pentru start timer
+// Functionality for start timer
 startTimerBtn.addEventListener('click' , startTimer);
 
-// Adaugati un button plus functionalitate pentru stop timer
+// Functionality for stop timer
 stopTimerBtn.addEventListener('click', stopTimer);
 
-// Adaugati un button plus functionalitate pentru reset timer
+// Functionality for reset timer
 resetTimerBtn.addEventListener('click', resetTimer);
 
-// Adaugati un button plus functionalitate pentru save timer
+// Functionality for save timer
 saveTimerBtn.addEventListener('click', saveTimer);
 
-// Vream sa afisam un timer in browser, va incepe cu 00:00:00
+// Display start like this: '00:00:00'
 displayTimer.innerHTML = '00:00:00';
 
-// functionalitatea timer-ului /stopwatch-ului
+// Timer functionality
 let second = 0;
 let minute = 0;
 let hour = 0;
@@ -71,7 +71,7 @@ function timeIncremment() {
 
     displayTimer.innerHTML = hour + ':' + minute + ':' + second;
 
-    // Sa se faca update in real time ( la fiecare secunda )
+    // Update in every seconds provided by browser
     setTimeout(timeIncremment, 1000);
   }
 }

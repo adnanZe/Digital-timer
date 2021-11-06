@@ -1,5 +1,7 @@
 # Digital-timer
 
+# Challenge week 7
+
 Tasks:
 
 Vream sa afisam un timer in browser, va incepe cu 00:00:00.
