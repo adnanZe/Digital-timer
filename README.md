@@ -18,4 +18,4 @@ Adaugati un button plus functionalitate pentru save timer.
 
 ==========================================
 
-Preview: https://adnanze.github.io/Digital-timer/
+Preview: https://adnanze.github.io/Digital-timer-SIIT/
