@@ -1,21 +1,23 @@
-# Digital-timer
+# Digital timer
 
-# Challenge week 7
+:clipboard: Tasks:
 
-Tasks:
+:pushpin: Display timer in browser like this: 00:00:00;
 
-Vream sa afisam un timer in browser, va incepe cu 00:00:00.
+:pushpin: Make update in real time (every second)
 
-Sa se faca update in real time ( la fiecare secunda ).
+:pushpin: Add buttons with start timer functionality
 
-Adaugati un button plus functionalitate pentru start timer.
+:pushpin: Add button with stop timer functionality
 
-Adaugati un button plus functionalitate pentru stop timer.
+:pushpin: Add button with reset timer functionality
 
-Adaugati un button plus functionalitate pentru reset timer.
-
-Adaugati un button plus functionalitate pentru save timer.
+:pushpin: Add button with save timer functionality
 
 ==========================================
 
-Preview: https://adnanze.github.io/Digital-timer-SIIT/
+:eyes: Preview :paperclip: https://adnanze.github.io/Digital-timer-SIIT/
+
+:iphone: :heavy_check_mark:
+:computer: :heavy_check_mark:
+:desktop_computer: :heavy_check_mark:
