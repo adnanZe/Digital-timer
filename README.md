@@ -16,7 +16,7 @@
 
 ==========================================
 
-:eyes: Preview :paperclip: https://adnanze.github.io/Digital-timer-SIIT/
+:eyes: Preview :paperclip: https://adnanze.github.io/DigitalTimer/
 
 :iphone: :heavy_check_mark:
 :computer: :heavy_check_mark:
